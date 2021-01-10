@@ -1,0 +1,9 @@
+{
+    "logo_file": "...",
+    "fonts": {
+        "regular": "fonts/QuattrocentoSans-Regular.ttf",
+        "bold": "fonts/QuattrocentoSans-Bold.ttf",
+        "italic": "fonts/QuattrocentoSans-Italic.ttf",
+        "bold-italic": "fonts/QuattrocentoSans-BoldItalic.ttf"
+    }
+}

@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore the fonts folder to make sure we respect copyrights
+# and limitations on distribution
+fonts/
+
 # C extensions
 *.so
 
