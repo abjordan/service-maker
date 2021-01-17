@@ -1,9 +1,10 @@
 {
-    "logo_file": "...",
+    "logo_file": "res/lcs-logo.png",
     "fonts": {
         "regular": "fonts/QuattrocentoSans-Regular.ttf",
         "bold": "fonts/QuattrocentoSans-Bold.ttf",
         "italic": "fonts/QuattrocentoSans-Italic.ttf",
-        "bold-italic": "fonts/QuattrocentoSans-BoldItalic.ttf"
+        "bold-italic": "fonts/QuattrocentoSans-BoldItalic.ttf",
+        "symbol": "fonts/LSBSymbol.ttf"
     }
 }
