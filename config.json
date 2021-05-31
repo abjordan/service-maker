@@ -1,10 +1,10 @@
 {
-    "logo_file": "res/lcs-logo.png",
+    "logo_file": "res/images/lcs-logo.png",
     "fonts": {
-        "regular": "fonts/QuattrocentoSans-Regular.ttf",
-        "bold": "fonts/QuattrocentoSans-Bold.ttf",
-        "italic": "fonts/QuattrocentoSans-Italic.ttf",
-        "bold-italic": "fonts/QuattrocentoSans-BoldItalic.ttf",
-        "symbol": "fonts/LSBSymbol.ttf"
+        "regular": "res/fonts/QuattrocentoSans-Regular.ttf",
+        "bold": "res/fonts/QuattrocentoSans-Bold.ttf",
+        "italic": "res/fonts/QuattrocentoSans-Italic.ttf",
+        "bold-italic": "res/fonts/QuattrocentoSans-BoldItalic.ttf",
+        "symbol": "res/fonts/LSBSymbol.ttf"
     }
 }
