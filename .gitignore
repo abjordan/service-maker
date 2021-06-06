@@ -5,7 +5,7 @@ __pycache__/
 
 # Ignore the fonts folder to make sure we respect copyrights
 # and limitations on distribution
-fonts/
+res/fonts/
 
 # C extensions
 *.so
